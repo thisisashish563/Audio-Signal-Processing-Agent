@@ -6,7 +6,7 @@ An AI-powered assistant built using IBM Watson Studio and Granite AI that helps 
 In the field of audio electronics, professionals and students alike often face recurring challenges when working with analog circuits such as **preamplifiers, filters, and power amplifiers.** Common issues include signal distortion, background noise, grounding problems, and improper filter configurations. Addressing these problems typically requires domain expertise, time-consuming testing, and repeated manual adjustments.
 
 However, with the increasing complexity of audio systems and the need for precision in design, there is a growing demand for intelligent tools that can support circuit designers in diagnosing faults and improving performance. Traditional resources like textbooks, forums, or trial-and-error approaches often fall short in delivering quick and accurate solutions.
-## 🚀 Proposed Solution
+## PROPOSED SOLUTION
 
 To tackle the common challenges encountered in audio signal processing and circuit design, this project presents the development of an **AI-powered Audio Signal Processing Assistant Agent**.
 
@@ -14,11 +14,11 @@ This intelligent tool is designed to function as a **virtual assistant** for stu
 
 The solution will be built using the following technologies:
 
-- 🧠 **IBM Granite AI Model** for advanced language understanding
-- ☁️ **IBM Watson Studio** for development and model integration
-- 🌐 **IBM Cloud Lite** for deployment and accessibility
+-  **IBM Granite AI Model** for advanced language understanding
+-  **IBM Watson Studio** for development and model integration
+-  **IBM Cloud Lite** for deployment and accessibility
 
-### 🛠️ Key Features of the Proposed Solution:
+### Key Features of the Proposed Solution:
 
 - **Natural language interface** for intuitive user interaction
 - **Technical query resolution** for circuits like **preamplifiers, filters, and amplifiers**
