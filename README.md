@@ -1,4 +1,4 @@
-<img width="2717" height="538" alt="image" src="https://github.com/user-attachments/assets/c3bc85d7-9ee1-4e6d-a581-35dc3837d6bd" /><img width="580" height="283" alt="image" src="https://github.com/user-attachments/assets/c1ca3954-1422-41a6-9dcb-401f17d8deb0" /># AUDIO-SIGNAL-PROCESSING-AGENT
+# AUDIO-SIGNAL-PROCESSING-AGENT
 An AI-powered assistant built using IBM Watson Studio and Granite AI that helps design and troubleshoot audio circuits like amplifiers, filters, and preamps. It provides real-time suggestions for noise reduction, distortion fixes, and circuit optimization. 
 # PROBLEM STATEMENT
 **Problem No. 32 – Audio Signal Processing Assistant Agent**
@@ -49,7 +49,32 @@ Faculty & EducatorsTeachers and lab instructors who can use the assistant as a 
 Hardware Startups & Product DevelopersTeams developing audio-based hardware solutions e.g., amplifiers, audio interfaces, smart speakers) who need fast debugging and design refinement support.
 
 # RESULTS
+## AGENT PREVIEW:
 <img width="924" height="808" alt="Screenshot 2025-08-03 220752" src="https://github.com/user-attachments/assets/73279e69-e7cc-4247-9df2-e30e91842bba" />
+<img width="915" height="772" alt="Screenshot 2025-08-03 220927" src="https://github.com/user-attachments/assets/8f3245a2-38a3-460f-ada0-aceb6337bf05" />
+<img width="895" height="779" alt="Screenshot 2025-08-03 221113" src="https://github.com/user-attachments/assets/81e96526-0a23-42b8-b097-84dc8ff71459" />
+
+## DEPLOYED AGENT
+<img width="906" height="764" alt="Screenshot 2025-08-03 221327" src="https://github.com/user-attachments/assets/d6da9736-691f-4fcd-8417-934c0019218b" />
+
+# CONCLUSIONS
+The project successfully delivers an AI assistant focused on audio circuit design and troubleshooting.
+It enhances efficiency by providing real-time solutions for noise, distortion, and filter design issues.
+Built using IBM Granite AI and Watson Studio, it demonstrates practical use of cloud-based AI tools.
+The assistant bridges the gap between theoretical concepts and real-world audio applications.
+It serves as both a learning aid and a diagnostic tool for students, hobbyists, and professionals.
+
+# FUTURE SCOPE
+Voice-Based InteractionIntegrate speech-to-text and text-to-speech features to allow hands-free, conversational troubleshooting.
+Circuit Diagram InterpretationEnable the assistant to analyze and provide feedback on uploaded circuit schematics or SPICE files using image processing or OCR.
+Integration with Simulation ToolsConnect with circuit simulation platforms to validate user designs in real time.
+Multilingual SupportExpand accessibility by enabling the assistant to understand and respond in regional languages like Hindi, Tamil, or Bengali.
+Custom Knowledge Base ExpansionAllow users to add their own reference materials or past project notes to train the assistant on organization-specific data.
+Mobile App DeploymentDevelop a lightweight mobile version for students and field engineers who need quick support on the go.
+Community-Driven ImprovementBuild a feature where users can upvote useful responses, submit feedback, or contribute to training the model, making it smarter over time.
+
+
+
 
 
 
